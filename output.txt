@@ -1,0 +1,1 @@
+{'read': 'to obtain knowledge put dow in the form of writing', 'go': 'to leave', 'write': 'to put things down in a notebook', 'come': 'to approach', 'shop': 'to buy multiple things, or a place of business'}
